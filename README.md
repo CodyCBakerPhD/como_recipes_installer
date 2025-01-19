@@ -1,2 +1,3 @@
-# como_recipes_installer
+# CoMo Recipes Installer
+
 Standalone installers for CoMo recipes.
